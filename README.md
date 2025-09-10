@@ -26,7 +26,7 @@ All tasks are saved in the **browser’s Local Storage**, so they remain even af
 
 ---
 
-## ▶️ Live Demo
+## 👉 Click here to use TO-DO-LIST
 👉 [GitHub Pages Link will appear here after deployment]  
 
 ---
