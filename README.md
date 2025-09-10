@@ -42,4 +42,4 @@ All tasks are saved in the **browser’s Local Storage**, so they remain even af
 ## 📸 Screenshot
 Here’s how the app looks 
 
-![To-Do List App Screenshot](screenshot.png)
+![To-Do List App Screenshot](screenshot1.png)
