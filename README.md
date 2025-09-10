@@ -15,7 +15,7 @@ All tasks are saved in the **browser’s Local Storage**, so they remain even af
 - 🔼 Assign **priority levels** (Low, Medium, High)
 - 🌓 Toggle between **Dark Mode & Light Mode**
 - 💾 Data persistence with **Local Storage**
-- 📱 Fully responsive for mobile and desktop
+- 📱 Fully responsive for mobile and desktop 
 
 ---
 
