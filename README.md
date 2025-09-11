@@ -26,8 +26,9 @@ All tasks are saved in the **browser’s Local Storage**, so they remain even af
 
 ---
 
-## 👉 Click here to use TO-DO-LIST
-👉 [GitHub Pages Link will appear here after deployment]  
+## Live Demo
+👉 [Click here to try the To-Do List App](https://chandana351.github.io/todo-list-app/)
+
 
 ---
 
